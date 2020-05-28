@@ -4,12 +4,12 @@
 
 # Requirements :
  The following libraries are required to run the code.
- -pandas 
- -numpy
- -matplotlib
- -seaborn
- -folium
- -fbprophet(version 0.6)
+ - pandas 
+ - numpy
+ - matplotlib
+ - seaborn
+ - folium
+ - fbprophet(version 0.6)
  
  # Procedure :
  Run every cell of the notebook. Feel free to modify the code to match your needs.
